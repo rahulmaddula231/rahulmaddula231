@@ -1,7 +1,7 @@
 - 👋 Yo, I’m Rahul Maddula
 - 👀 I’m interested in Data Science and Data Engineering.
 - 🌱 I’m currently Pursuing Master in Computer Science.
-- 📫 How to reach me rmaddula@hawk.iit.edu
+- 📫 How to reach me rmaddula@hawk.iit.edu || www.linkedin.com/in/rahul-maddula
 
 <!---
 rahulmaddula231/rahulmaddula231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
