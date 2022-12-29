@@ -1,6 +1,6 @@
 - 👋 Yo, I’m Rahul Maddula
 - 👀 I’m interested in Data Science and Data Engineering.
-- 🌱 I’m currently Pursuing Masters in Computer Science.
+- 🌱 I’m currently Pursuing Masters in Computer Science at Illinois Institute of Technology, Chicago.
 - 📫 How to reach me rmaddula@hawk.iit.edu || www.linkedin.com/in/rahul-maddula
 
 <!---
